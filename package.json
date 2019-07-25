@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "test-hmr",
+  "version": "0.0.0.",
+  "scripts": {
+    "start": "gatsby develop"
+  },
+  "devDependencies": {
+    "gatsby-cli": "^2.7.19"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.39",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
