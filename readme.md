@@ -14,8 +14,14 @@ npm start
 
 ## open browser 
 
+local
 ```
 http://localhost:8000/
+```
+
+from npm
+```
+http://localhost:8000/from-npm/
 ```
 
 ## hello bug
